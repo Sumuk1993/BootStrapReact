@@ -1,0 +1,11 @@
+main{
+    height: 400px;
+    border: 1px dashed green;
+}
+footer{
+    height: 100px;
+    border: 1px dashed purple;
+}
+.tbdr{
+    border: 1px dashed red;
+}
